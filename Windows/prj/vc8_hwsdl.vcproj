@@ -387,6 +387,10 @@
 				>
 			</File>
 			<File
+				RelativePath="..\..\src\Game\Ammunition.c"
+				>
+			</File>
+			<File
 				RelativePath="..\..\src\Game\Animatic.c"
 				>
 			</File>
@@ -1761,6 +1765,10 @@
 			</File>
 			<File
 				RelativePath="..\..\src\Game\Alliance.h"
+				>
+			</File>
+			<File
+				RelativePath="..\..\src\Game\Ammunition.h"
 				>
 			</File>
 			<File
