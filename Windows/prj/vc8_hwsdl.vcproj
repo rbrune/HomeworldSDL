@@ -1527,6 +1527,10 @@
 				>
 			</File>
 			<File
+				RelativePath="..\..\src\Game\VolleyFire.c"
+				>
+			</File>
+			<File
 				RelativePath="..\..\src\Game\Volume.c"
 				>
 			</File>
@@ -2761,6 +2765,10 @@
 			</File>
 			<File
 				RelativePath="..\..\src\Game\VolTweakDefs.h"
+				>
+			</File>
+			<File
+				RelativePath="..\..\src\Game\VolleyFire.h"
 				>
 			</File>
 			<File

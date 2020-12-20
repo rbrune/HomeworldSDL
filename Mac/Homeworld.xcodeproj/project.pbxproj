@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		091AFDE0258625430027A01D /* VolleyFire.c in Sources */ = {isa = PBXBuildFile; fileRef = 091AFDDF258625430027A01D /* VolleyFire.c */; };
+		091AFDE1258625430027A01D /* VolleyFire.c in Sources */ = {isa = PBXBuildFile; fileRef = 091AFDDF258625430027A01D /* VolleyFire.c */; };
 		174F9C6A239017B10087B2DB /* SDL2.framework in CopyFiles */ = {isa = PBXBuildFile; fileRef = 1793E3D6237095FD006F67CB /* SDL2.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
 		1793E3D7237095FD006F67CB /* SDL2.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1793E3D6237095FD006F67CB /* SDL2.framework */; };
 		1793E3D8237095FD006F67CB /* SDL2.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1793E3D6237095FD006F67CB /* SDL2.framework */; };
@@ -619,6 +621,8 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		091AFDDE258625430027A01D /* VolleyFire.h */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.h; name = VolleyFire.h; path = ../src/Game/VolleyFire.h; sourceTree = SOURCE_ROOT; };
+		091AFDDF258625430027A01D /* VolleyFire.c */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.c; name = VolleyFire.c; path = ../src/Game/VolleyFire.c; sourceTree = SOURCE_ROOT; };
 		1058C7A1FEA54F0111CA2CBB /* Cocoa.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Cocoa.framework; path = /System/Library/Frameworks/Cocoa.framework; sourceTree = "<absolute>"; };
 		1793E3D6237095FD006F67CB /* SDL2.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = SDL2.framework; sourceTree = "<group>"; };
 		1793E3E12371F080006F67CB /* Homeworld.big */ = {isa = PBXFileReference; lastKnownFileType = file; name = Homeworld.big; path = ../Homeworld.big; sourceTree = "<group>"; };
@@ -1813,6 +1817,8 @@
 				90623D1B064992AF0088361C /* Vector.c */,
 				90623D1C064992AF0088361C /* Vector.h */,
 				90623D1D064992AF0088361C /* VolTweakDefs.h */,
+				091AFDDE258625430027A01D /* VolleyFire.h */,
+				091AFDDF258625430027A01D /* VolleyFire.c */,
 				90623D1E064992AF0088361C /* Volume.c */,
 				90623D1F064992AF0088361C /* Volume.h */,
 			);
@@ -2456,6 +2462,7 @@
 				3516C9CD077C41B0001AA863 /* Universe.c in Sources */,
 				3516C9CE077C41B0001AA863 /* UnivUpdate.c in Sources */,
 				3516C9CF077C41B0001AA863 /* Vector.c in Sources */,
+				091AFDE1258625430027A01D /* VolleyFire.c in Sources */,
 				3516C9D0077C41B0001AA863 /* Volume.c in Sources */,
 				3516CA23077C41B0001AA863 /* font.c in Sources */,
 				3516CA2B077C41B0001AA863 /* mainrgn.c in Sources */,
@@ -2751,6 +2758,7 @@
 				90623E49064992AF0088361C /* Universe.c in Sources */,
 				90623E4B064992AF0088361C /* UnivUpdate.c in Sources */,
 				90623E4D064992AF0088361C /* Vector.c in Sources */,
+				091AFDE0258625430027A01D /* VolleyFire.c in Sources */,
 				90623E50064992AF0088361C /* Volume.c in Sources */,
 				90BD926A064AEE7B003E3D39 /* font.c in Sources */,
 				90BD9285064AEE7B003E3D39 /* mouse.c in Sources */,
